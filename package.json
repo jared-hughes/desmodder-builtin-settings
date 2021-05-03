@@ -1,0 +1,12 @@
+{
+  "name": "desmodder-builtin-settings",
+  "version": "0.1.0",
+  "description": "Modify settings built-in to Desmos, including clickableObjects",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jared-hughes/desmodder-builtin-settings.git"
+  },
+  "author": "jared-hughes",
+  "license": "ISC"
+}
